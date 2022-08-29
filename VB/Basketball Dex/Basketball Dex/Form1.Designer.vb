@@ -267,7 +267,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.PointguardPictureBox)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Basketball Dex"
         CType(Me.Centerpicturebox, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Powerforwardpicturebox, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Smallforwardpicturebox, System.ComponentModel.ISupportInitialize).EndInit()
